@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">XeDAQMonitor</string>
+
+    <string name="title_section1">Welcome</string>
+    <string name="title_section2">DAQ Status</string>
+    <string name="title_section3">Runs List</string>
+    <string name="title_section4">Logbook</string>
+    <string name="title_section5">Waveforms</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Refresh</string>
+
+    <string name="action_login">Sign In</string>
+
+    <!-- Resources for welcome fragment -->
+    <string name="welcome_message">Welcome to the XENON1T Data Monitor App</string>
+
+    <!-- Resources for status fragment -->
+    <string name="status_text">This is the status menu</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
